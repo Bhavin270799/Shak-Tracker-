@@ -1,1 +1,2 @@
-# Shak-Tracker-
+# Shak-Tracker-Application which measure movement and notify to the user through vibration and it can also be
+used to awaken any application just by shaking the phone.Still working on it....
